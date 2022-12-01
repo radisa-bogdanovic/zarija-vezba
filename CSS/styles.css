@@ -1,16 +1,17 @@
+.one {
+    text-align: end;
+}
+.two {
+    text-align: end;
 
-ul {
-    color: red;
-    list-style-type: none;
-    display: inline;
-}
-ul > li {
-    display: inline;
-}
-ul > li > a {
-    color: green;
-text-decoration: none;
 }
 body {
     background-image: url(./khadeeja-yasser-3U9L9Chc3is-unsplash.jpg)
+}
+.h1 {
+    color: yellow;
+    text-align: center;
+}
+.par {
+    color: blue;
 }
